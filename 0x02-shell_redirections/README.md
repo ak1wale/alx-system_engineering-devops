@@ -1,3 +1,1 @@
-0x02. Shell, lO Redirections and filt
-
-ers
+0x02 Shell IO Redirections and filters
